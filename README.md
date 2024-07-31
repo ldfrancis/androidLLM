@@ -1,2 +1,2 @@
 # androidLLM
-androidLLM is developed for the edge LLM challenge at Neurips 2024
+androidLLM is developed for the Edge-Device LLM challenge, Neurips 2024
